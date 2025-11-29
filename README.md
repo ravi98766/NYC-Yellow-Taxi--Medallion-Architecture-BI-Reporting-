@@ -224,6 +224,12 @@ AS
 <img width="1366" height="768" alt="final pipeline" src="https://github.com/user-attachments/assets/bd0f1a88-e65e-4229-b6ec-e2fc3369a911" />
 
 ## BI Reporting
+<img width="830" height="498" alt="page 1" src="https://github.com/user-attachments/assets/72b7d76f-a8ac-4f4c-a400-6fdb8f3857ca" />
+<img width="833" height="498" alt="page2" src="https://github.com/user-attachments/assets/8f84656a-63f8-43a9-8839-fec4954ec215" />
+<img width="831" height="499" alt="page 3" src="https://github.com/user-attachments/assets/678b3d2c-16aa-4d83-84c6-f49462027062" />
+
+
+
 
 
 
